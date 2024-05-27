@@ -1,4 +1,4 @@
-npm install
+npm install \n 
 npm start
 
 터미널에서 위의 명령 실행 후
